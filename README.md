@@ -25,7 +25,7 @@ Run the tests `npm test`
 
 When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's master branch.
 
-##Assignment
+## Assignment
 
 In the React module, you built a client for the Noteful application. Now it's time to revisit that app and bring together all of the skills you've been working on in this module. 
 
